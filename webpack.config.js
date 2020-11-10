@@ -1,6 +1,6 @@
 module.exports = {
     entry: {
-        main: './main.js'
+        main: './main-02.js'
     },
     module: {
         rules: [
